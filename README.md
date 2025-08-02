@@ -20,4 +20,4 @@ A conversational AI chatbot powered by the **Gemini API** and built with **Pytho
 - **[Gemini API](https://aistudio.google.com/apikey)** — Get your API Key here
 
 
-cd gemini-chatbot
+
